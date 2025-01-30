@@ -8,12 +8,13 @@
     <style>
         
         header {
-           background: linear-gradient(to right, #003f69, #1e0069); 
+            background: linear-gradient(to right, #003f69, #1e0069); 
             color: #fff;
             padding: 30px 0;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             text-align: center;
         }
+
         header h1 {
             font-size: 2.5rem;
             font-weight: bold;
