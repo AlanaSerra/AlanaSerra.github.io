@@ -8,7 +8,7 @@
     <style>
        
         header {
-            background-color: #003f69; 
+            background: linear-gradient(to right, #003f69, #002869); 
             color: #fff;
             padding: 30px 0;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
