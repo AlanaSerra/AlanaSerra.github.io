@@ -57,10 +57,7 @@
             box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
         }
 
-        body {
-        background-color: #003f69; /* Cor do fundo do corpo */
-        color: #fff; /* Para garantir que o texto seja legível */
-    }
+       
 
     </style>
 
