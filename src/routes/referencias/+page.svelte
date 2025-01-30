@@ -14,7 +14,7 @@
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
             text-align: center;
         }
-        
+
         header h1 {
             font-size: 2.5rem;
             font-weight: bold;
@@ -65,7 +65,7 @@
             text-align: center;
             box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
         }
-        /* Estilos para as caixas de texto */
+        
         .textarea-container {
             background-color: #f8f9fa;
             border-radius: 15px;
@@ -144,13 +144,13 @@
         </div>
     </div>
 
-    <!-- Caixas de texto -->
+   
      <center>
     <div class="container my-5">
         <div class="row">
             <div class="col-sm-6 mb-4">
                 <div class="textarea-container">
-                    <h5>Caixa de Texto 1</h5>
+                    <h5>Sua opinião!</h5>
                     <textarea rows="4" placeholder="Qual foi sua obra preferida entre essas da Galeria?"></textarea>
                 </div>
             </div>

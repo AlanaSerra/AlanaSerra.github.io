@@ -42,6 +42,7 @@
     </style>
     <title>Realismo</title>
 </head>
+
 <body>
     <header>
         <h1>Realismo</h1><br> 
