@@ -1,16 +1,4 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
     <style>
-        body {
-            font-family: 'Poppins', sans-serif;
-            background: linear-gradient(to bottom, #003f69, #157a8c);
-            color: #f8f9fa;
-        }
         header {
             background: linear-gradient(to right, #680a1d, #3f1719);
             color: #fff;
@@ -70,8 +58,6 @@
         }
     </style>
     <title>Galeria de Arte</title>
-</head>
-<body>
     <header>
         <h1>Galeria de Arte</h1><br> 
         <p>O tempo é como um sopro suave que acaricia nossas memórias</p>
@@ -194,5 +180,3 @@
     <footer>
         <p>&copy; 2025 - nenhum direito reservado (exceto a frase do começo!) à Alana Serra</p>
     </footer>
-</body>
-</html>
