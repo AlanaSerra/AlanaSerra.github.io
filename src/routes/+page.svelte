@@ -57,6 +57,7 @@
             box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.2);
         }
     </style>
+    
     <title>Galeria de Arte</title>
     <header>
         <h1>Galeria de Arte</h1><br> 

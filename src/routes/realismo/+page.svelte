@@ -8,11 +8,11 @@
     <style>
         body {
             font-family: 'Poppins', sans-serif;
-            background: linear-gradient(to bottom, #680a1d, #680a1d); /* Cor do cabeçalho aplicada ao corpo */
+            background: linear-gradient(to bottom, #680a1d, #680a1d); 
             color: #f8f9fa;
         }
         header {
-            background-color: #003f69; /* Cor do corpo aplicada ao cabeçalho */
+            background-color: #003f69; 
             color: #fff;
             padding: 30px 0;
             box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
@@ -39,7 +39,7 @@
         }
         .card-title {
             font-size: 1.2rem;
-            color: #680a1d; /* Mantido para combinar com o fundo do cabeçalho */
+            color: #680a1d; 
             font-weight: bold;
         }
     </style>
