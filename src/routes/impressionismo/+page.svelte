@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<svelte:head>
+    <title>Impressionismo</title>
+</svelte:head>
+
     <style>
        
         header {
@@ -40,10 +37,9 @@
             font-weight: bold;
         }
     </style>
-    <title>Impressionismo</title>
-</head>
+    
 
-<body>
+
     <header>
         <h1>Impressionismo</h1><br> 
         <p>O impressionismo foi um movimento artístico que surgiu na França, na segunda metade do século XIX, desafiando as convenções da arte acadêmica da época. Os impressionistas buscavam representar a luz e a cor de maneira mais fiel à percepção humana, ao invés de seguir os detalhes e a precisão das obras clássicas. Os artistas impressionistas usavam pinceladas soltas e rápidas, cores vibrantes e contrastantes, e muitas vezes pintavam ao ar livre (en plein air) para capturar a mudança constante da luz natural. Eles estavam mais interessados em capturar o momento efêmero e a sensação do que em representar a realidade de forma rígida.</p>
@@ -94,5 +90,3 @@
             </div>
         </div>
     </div>
-</body>
-</html>

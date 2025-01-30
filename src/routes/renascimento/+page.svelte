@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<svelte:head>
+    <title>Renascimento</title>
+</svelte:head>
+
     <style>
         
        header {
@@ -40,9 +37,7 @@
             font-weight: bold;
         }
     </style>
-    <title>Renascimento</title>
-</head>
-<body>
+
     <header>
         <h1> Renascimento </h1><br> 
         <p>O Renascimento foi um movimento cultural e artístico que teve início no final da Idade Média, no século XIV, e se estendeu até o século XVII. Surgiu na Itália, mas se espalhou rapidamente pela Europa, marcando uma mudança radical na forma de pensar e de se expressar artisticamente. O Renascimento é caracterizado pela valorização do ser humano, da razão e da natureza, em contraste com os dogmas da Igreja e a visão medieval do mundo. No campo artístico, o Renascimento representou uma redescoberta da arte e dos valores da Antiguidade Clássica, como a Grécia e Roma antigas, buscando reviver seus princípios estéticos, técnicos e filosóficos.</p>
@@ -93,5 +88,3 @@
             </div>
         </div>
     </div>
-</body>
-</html>

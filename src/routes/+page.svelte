@@ -1,3 +1,7 @@
+<svelte:head>
+    <title>Galeria de arte</title>
+</svelte:head>
+
     <style>
         header {
             background: linear-gradient(to right, #680a1d, #3f1719);

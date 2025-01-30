@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<svelte:head>
+    <title>Realismo</title>
+</svelte:head>
+
     <style>
         
         header {
@@ -40,10 +37,8 @@
             font-weight: bold;
         }
     </style>
-    <title>Realismo</title>
-</head>
+   
 
-<body>
     <header>
         <h1>Realismo</h1><br> 
         <p>O realismo foi um movimento artístico e literário que surgiu na França, no meio do século XIX, como uma reação ao romantismo e ao idealismo predominantes na arte da época. O realismo buscava representar a vida cotidiana de forma fiel e sem idealizações, retratando as pessoas, os ambientes e os eventos com um olhar mais objetivo, muitas vezes focando nas classes populares e nas dificuldades da vida real.Na pintura, os artistas realistas evitavam os temas mitológicos ou históricos, comuns em movimentos anteriores, e se concentravam em cenas da vida diária, como trabalhadores, camponeses, e cenas urbanas.</p>
@@ -94,5 +89,3 @@
             </div>
         </div>
     </div>
-</body>
-</html>

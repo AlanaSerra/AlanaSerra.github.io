@@ -1,10 +1,7 @@
-<!DOCTYPE html>
-<html lang="pt-br">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
-    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@600&display=swap" rel="stylesheet">
+<svelte:head>
+    <title>Arte Acadêmica</title>
+</svelte:head>
+
     <style>
         
         header {
@@ -40,9 +37,7 @@
             font-weight: bold;
         }
     </style>
-    <title>Arte Acadêmica</title>
-</head>
-<body>
+    
     <header>
         <h1>Arte Acadêmica</h1><br> 
         <p>A arte acadêmica é um estilo artístico que se desenvolveu a partir dos ensinamentos das academias de arte, especialmente na Europa, a partir do século XVII. Ela é caracterizada pela adesão a normas rígidas de técnica e estilo, muitas vezes com um foco na perfeição técnica e na representação realista da figura humana e da natureza. As academias, como a Académie des Beaux-Arts em Paris, eram instituições educacionais que formavam artistas dentro de parâmetros considerados "adequados" para a arte, estabelecendo regras sobre composição, proporções e uso de cores.</p>
@@ -93,5 +88,3 @@
             </div>
         </div>
     </div>
-</body>
-</html>
